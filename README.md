@@ -14,7 +14,7 @@ FFMPEG for video conversion, see https://www.ffmpeg.org/download.html
 
 ## Install
 
-Download your corresponding OS program (macos not supported) in the release panel.
+Download your corresponding OS program in the release panel. (Linux/MacOS/Windows)
 
 ## Usage
 
